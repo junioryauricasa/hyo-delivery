@@ -4,7 +4,7 @@
 		<div class="col-md-3 footer-grid">
 			<h3>Nosotros</h3>
 			<p>
-				Nos encargmos de realizar lo que no puedes por falta de tiempo o simplemente ganas.
+				Nos encargamos de realizar lo que no puedes por falta de tiempo o simplemente ganas.
 			</p>
 		</div>
 		<div class="col-md-3 footer-grid ">
@@ -41,7 +41,7 @@
 			<div class="footer-bottom">
 				
 				<!--h2 ><a href="index.php#"><b>T<br>H<br>E</b>Big Store<span>The Best Supermarket</span></a></h2-->
-				<img src="images/LOGO-HYODELIVERY.png" alt="" width="180px">
+				<img src="images/LOGO-HYODELIVERY-solo.png" alt="" width="180px">
 
 				<h1 style="color: white">HYO DELIVERY</h1><p class="fo-para"> Todo lo que te urge a una llamada/click de distancia</p>
 

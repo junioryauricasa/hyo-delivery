@@ -121,7 +121,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<div class="container">
 		<div class="logo">
 			<!--h1 ><a href="index.php"><b>T<br>H<br>E</b><img src="images/LOGO-HYODELIVERY.png" alt="" width="200px"></a></h1-->
-			<img src="images/LOGO-HYODELIVERY.png" alt="" width="180px">
+			<img src="images/LOGO-HYODELIVERY.png" alt="" width="300px">
 		</div>
 
 		<!--div class="head-t">
@@ -135,7 +135,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		</div-->
 
 		<div class="head-t">
-			<h2>Huancayo delivery</h2>
+			<!--h2>Huancayo delivery</h2-->
 		</div>
 		
 		<div class="header-ri">
@@ -291,7 +291,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			</div>
 			</nav>
 			 <div class="cart" >
-			
 				<span class="fa fa-shopping-cart my-cart-icon"><span class="badge badge-notify my-cart-badge"></span></span>
 			</div>
 			<div class="clearfix"></div>

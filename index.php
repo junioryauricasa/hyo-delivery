@@ -4,7 +4,8 @@
     <div class="container">
 		<div class="banner-info">
 			<h3>
-				Sin ganas de Salir de Casa? No tienes tiempo? Nosotros tenemos la solución
+				Sin ganas de Salir de Casa? No tienes tiempo? 
+				<br>Te lo llevamos a la puerta de tu casa
 			</h3>	
 			<div class="search-form">
 				<form action="#" method="post">
