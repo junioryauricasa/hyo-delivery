@@ -47,10 +47,10 @@
       $resultado = '
       		<div class="alert alert-danger" role="alert">
       		  <button type="button" class="close" data-dismiss="alert" aria-label="Close" style="color:white">
-			    <span aria-hidden="true">&times;</span>
-			  </button>
-			  <strong>Alerta!!</strong> Error en el envío del email.
-			</div>
+			       <span aria-hidden="true">&times;</span>
+    			  </button>
+    			  <strong>Alerta!!</strong> Error en el envío del email.
+    			</div>
       ';
     }
 

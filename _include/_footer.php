@@ -916,7 +916,7 @@
             sms: "+51 940 285 341", // Sms phone number
             call: "+51 940 285 341", // Call phone number
             company_logo_url: "//storage.whatshelp.io/widget/2f/2fe9/2fe9144ef74502ab1534504b553bd757/23132109_872548176248100_9116948878483951071_n.png", // URL of company logo (png, jpg, gif)
-            greeting_message: "Hello, how may we help you? Just send us a message now to get assistance.", // Text of greeting message
+            greeting_message: "Hola, como podemos ayudarte? Ponte en contacto con nosotros.", // Text of greeting message
             call_to_action: "Contáctanos", // Call to action
             button_color: "#FF318E", // Color of button
             position: "right", // Position may be 'right' or 'left'
